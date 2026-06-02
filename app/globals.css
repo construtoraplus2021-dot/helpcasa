@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@keyframes blink-blue-green {
+  0%, 100% {
+    color: #3b82f6;
+  }
+  50% {
+    color: #22c55e;
+  }
+}
+
+.animate-blink-blue-green {
+  animation: blink-blue-green 1s infinite;
+}

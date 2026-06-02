@@ -1,0 +1,6 @@
+{
+  "name": "HELPCASA",
+  "description": "Plataforma para encontrar profissionais de reparos domésticos e manutenção no ABCD",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
